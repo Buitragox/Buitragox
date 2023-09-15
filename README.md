@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey people of the internet
+
+I am a computer science student at Javeriana Cali.
+
+Currently working on my thesis about deep learning models for breast cancer detection on histologic images.
+
+I like to learn new stuff, enjoy videogames, plus some game development on the side.
 
 <!--
 **Buitragox/Buitragox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
