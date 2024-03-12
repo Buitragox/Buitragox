@@ -3,12 +3,12 @@
 I am a computer science student at Javeriana Cali.
 
 What I do:
-- Learn new things
+- Try out new things
 - Enjoy videogames
 - Some game development on the side.
 
 Currently:
-- Working on my thesis about deep learning models for breast cancer detection.
+- Working on my thesis about deep learning models for breast cancer detection with multiple annotators.
 - Learning SvelteKit because why not.
 
 <!--
