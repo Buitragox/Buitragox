@@ -1,6 +1,6 @@
 ### Hey people of the internet
 
-I am a computer science student.
+I am a computer science student (very close to graduating).
 
 What I do:
 - Try out new things.
