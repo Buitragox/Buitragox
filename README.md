@@ -7,4 +7,4 @@ What I do:
 
 Currently:
 - Learning Go with the book [Writing An Interpreter In Go](https://interpreterbook.com).
-- Trying to learn Vim
+- Trying to learn Vim.
