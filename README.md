@@ -1,13 +1,10 @@
-### Hey people of the internet
-
-I am a computer science student (very close to graduating).
+### Hello fellow humans
 
 What I do:
-- Try out new things.
+- Try out new tech.
 - Enjoy videogames.
 - Some game development on the side.
 
 Currently:
 - Learning Go with the book [Writing An Interpreter In Go](https://interpreterbook.com).
-- Learning SvelteKit because why not.
-
+- Trying to learn Vim
