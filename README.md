@@ -13,4 +13,4 @@ I'm into PC hardware, software, game dev (and games in general), and automation.
 - Learning some Go
 - Writing Ruby for work
 - Having a lot of fun (and pain) switching to Linux 🐧
-- Playing a lot of ~Monster Hunter~ ARC Raiders
+- Playing a lot of ~Monster Hunter~ ~ARC Raiders~ Terraria
