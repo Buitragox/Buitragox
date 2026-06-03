@@ -1,5 +1,3 @@
-# What's up?
-
 _Did you know that "cuban oats" ("avena cubana" in Spanish) is neither an oat nor Cuban?_ 
 Try it out if you ever go to Colombia 🇨🇴.
 
